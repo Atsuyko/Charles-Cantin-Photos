@@ -5,6 +5,8 @@ import Accueil from 'components/Accueil';
 import Galerie from 'components/Galerie';
 import TarifsEtPresations from 'components/TarifsEtPresations';
 import Contact from 'components/Contact';
+import Facebook from 'components/Facebook';
+import Instagram from 'components/Instagram';
 
 export default function App() {
   return (
