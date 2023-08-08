@@ -5,7 +5,7 @@ export default function Galerie() {
 
   return (
     <Wrapper className="container text-center">
-      <h2>Galerie</h2>
+      <h2 className='my-2'>Galerie</h2>
       <Filtre />
     </Wrapper>
   )

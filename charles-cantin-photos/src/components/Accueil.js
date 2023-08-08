@@ -6,7 +6,7 @@ export default function Accueil() {
     <Wrapper>
       <div>
         <img src={Bg} alt='Bébé'></img>
-        <p>Charles Cantin Photographe</p>
+        <p>Charles Cantin - Photographe</p>
       </div>
     </Wrapper>
   )

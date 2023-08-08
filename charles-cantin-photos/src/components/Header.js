@@ -41,7 +41,7 @@ export default function Header() {
 
 
 const Wrapper = styled.header`
-  
+  font-size: 1.2em;
   background-color: #47555E;
   color: #EEEEEE;
   font-family: Ubuntu;
