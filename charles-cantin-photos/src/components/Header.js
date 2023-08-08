@@ -41,6 +41,7 @@ export default function Header() {
 
 
 const Wrapper = styled.header`
+  
   background-color: #47555E;
   color: #EEEEEE;
   font-family: Ubuntu;
@@ -55,6 +56,7 @@ const Wrapper = styled.header`
     margin:0 auto;
   }
   & img{
+    margin-left: 75%;
     height: 100px;
   }
 `
