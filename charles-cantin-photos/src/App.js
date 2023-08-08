@@ -1,6 +1,6 @@
 import './App.css';
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
-import Layout from 'components/UI/Layout';
+import Layout from 'components/Layout';
 import Accueil from 'components/Accueil';
 import Galerie from 'components/Galerie';
 import TarifsEtPresations from 'components/TarifsEtPresations';

@@ -13,6 +13,7 @@ export default function Accueil() {
 }
 
 const Wrapper = styled.div`
+font-family: Ubuntu;
 & img {
   width: 100vw;
   position: relative;
