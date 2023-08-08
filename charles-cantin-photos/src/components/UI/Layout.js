@@ -19,5 +19,5 @@ export default function Layout({ children }) {
 const Wrapper = styled.div``
 
 const Main = styled.div`
-min-height: calc(100vh - 160px)
+
 `
