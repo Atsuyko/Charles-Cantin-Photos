@@ -4,7 +4,7 @@ export default function Contact() {
   return (
     <Wrapper className='mx-5 my-3'>
       <h2 className='text-center'>Contact</h2>
-      <form name="contact" method="POST" netlify>
+      <form name="contact" method="POST" action='https://formspree.io/f/xzbldlwo'>
         <input type="hidden" name="form-name" value="contact" />
         <div className='row g-3 justify-content-center'>
           <div className="col-md-5">
