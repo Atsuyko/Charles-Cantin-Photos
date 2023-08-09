@@ -4,7 +4,7 @@ export default function Contact() {
   return (
     <Wrapper className='mx-5 my-3'>
       <h2 className='text-center'>Contact</h2>
-      <form className="needs-validation" id="lessonForm" novalidate>
+      <form className="needs-validation" id="lessonForm" name="contact" method="POST" data-netlify="true" novalidate>
         <div className='row g-3 justify-content-center'>
           <div className="col-md-5">
             <label for="firstname" className="form-label">Prénom</label>
