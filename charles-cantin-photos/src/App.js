@@ -1,10 +1,10 @@
 import './App.css';
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
-import Layout from 'components/Layout';
-import Accueil from 'components/Accueil';
-import Galerie from 'components/Galerie';
-import TarifsEtPresations from 'components/TarifsEtPresations';
-import Contact from 'components/Contact';
+import Layout from './components/Layout';
+import Accueil from './components/Accueil';
+import Galerie from './components/Galerie';
+import TarifsEtPresations from './components/TarifsEtPresations';
+import Contact from './components/Contact';
 
 export default function App() {
   return (
